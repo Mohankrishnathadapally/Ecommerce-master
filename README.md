@@ -24,7 +24,6 @@ SpringBoot-Reactjs-Ecommerce-main/
 * Spring Boot
 * Spring Data JPA
 * MySQL (can be adapted)
-* Maven
 
 ### 📂 Backend Directory Structure
 
