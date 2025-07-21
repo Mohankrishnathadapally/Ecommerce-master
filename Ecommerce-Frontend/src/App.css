@@ -52,6 +52,11 @@
 }  
 
 /* <.............................................NAVBAR DROPDOWN......................................> */
+.position-relative{
+  position: center;
+  left: -30%;
+}
+
 .navbar-brand {
   font-size: 1.5rem;
   font-weight: bold;
